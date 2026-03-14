@@ -1,21 +1,24 @@
 # Moussa DIAGNE - Portfolio
 
-### Data Scientist | Analyste Statisticien | Étudiant Master 1 SSD
+Bonjour, je suis Moussa DIAGNE.
 
-Passionné par l'intersection entre les Mathématiques rigoureuses et la Puissance du Code, je me spécialise dans l'extraction de connaissances à partir de données complexes. Actuellement en Master 1 Statistiques et Sciences des Données à l'Université de Montpellier, je recherche une **alternance pour la rentrée de Septembre 2026** (Rythme : 8 Semaines en Entreprise / 8 Semaines à l'Université).
+Étudiant en Master 1 Statistiques et Sciences des Données.
+
+Bienvenue sur mon portfolio !
+Je développe une expertise solide à l’intersection de la modélisation statistique, de l’analyse de données massives et du machine learning appliqué. Mon objectif : transformer des données complexes en outils d’aide à la décision fiables, interprétables et utiles pour les équipes métiers.
 
 ---
 
 ## À propos de moi
 
-Étudiant en **Master 1 Statistiques et Sciences des Données (SSD)**, mon profil se situe à l'intersection de la rigueur mathématique et de l'ingénierie logicielle.
+Passionné par l'intersection entre les Mathématiques rigoureuses et la puissance du code, je me spécialise dans l'extraction de connaissances à partir de données complexes. Je recherche actuellement une alternance pour la rentrée de Septembre 2026 (Rythme : 8 semaines Entreprise / 8 semaines Université).
 
 ### Parcours Académique
-* **Master 1 Statistiques et Sciences des Données (En cours) :** Spécialisation en modélisation complexe, Deep Learning et Big Data. Expertise sur les frameworks **PyTorch/TensorFlow**.
-* **Licence de Mathématiques & Informatique :** Base théorique solide en calcul, probabilités et maîtrise des langages fondamentaux comme le **C++** et le **Java**.
+* Master 1 Statistiques et Sciences des Données (En cours) : Spécialisation en modélisation complexe, Deep Learning et Big Data. Expertise sur les frameworks PyTorch et TensorFlow.
+* Licence de Mathématiques & Informatique : Base théorique solide en calcul, probabilités et maîtrise des langages fondamentaux comme le C++ et le Java.
 
 ### Vision de la Data
-Je m'intéresse particulièrement à la **Prédiction Conforme** pour fiabiliser les modèles et au développement d'**applications interactives (Shiny/Flask)** pour rendre l'analyse accessible aux décideurs. Mon passage dans le **secteur industriel** m'a appris la précision et le respect des processus de production.
+Je m'intéresse particulièrement à la Prédiction Conforme pour fiabiliser les modèles et au développement d'applications interactives (Shiny/Flask) pour rendre l'analyse accessible aux décideurs. Mon expérience passée dans le secteur industriel m'a inculqué la précision et le respect des processus de production.
 
 ---
 
