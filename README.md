@@ -60,9 +60,9 @@ Je m'intéresse particulièrement à la Prédiction Conforme pour fiabiliser les
 
 ## Contact & Documents
 
-*  **[Consulter mon CV complet (PDF)](https://github.com/Mouss1O/Mouss1O/blob/main/CV_Moussa_Diagne.pdf)**
-*  **[Me rejoindre sur LinkedIn](https://www.linkedin.com/in/moussa-diagne)**
-*  **[M'envoyer un Email](mailto:mdiagne347@gmail.com)**
+* **CV :** <a href="https://github.com/Mouss1O/Moussa_DIAGNE/raw/main/CV_Diagne_Moussa%20(10).pdf" target="_blank">Consulter mon CV complet (PDF)</a>
+* **LinkedIn :** [linkedin.com/in/moussa-diagne](https://www.linkedin.com/in/moussa-diagne)
+* **Email :** [mdiagne347@gmail.com](mailto:mdiagne347@gmail.com)
 * 📍 **Localisation :** Montpellier, France
 
 ---
