@@ -2,7 +2,7 @@
 
 ### Data Scientist | Analyste Statisticien | Étudiant Master 1 SSD
 
-Passionné par l'intersection entre les Mathématiques rigoureuses et la Puissance du Code, je me spécialise dans l'extraction de connaissances à partir de données complexes. Actuellement en Master 1 Statistiques et Sciences des Données à l'Université de Montpellier, je recherche une **alternance pour la rentrée de Septembre 2026** (Rythme : 8 semaines / 8 semaines).
+Passionné par l'intersection entre les Mathématiques rigoureuses et la Puissance du Code, je me spécialise dans l'extraction de connaissances à partir de données complexes. Actuellement en Master 1 Statistiques et Sciences des Données à l'Université de Montpellier, je recherche une **alternance pour la rentrée de Septembre 2026** (Rythme : 8 Semaines en Entreprise / 8 Semaines à l'Université).
 
 ---
 
@@ -62,4 +62,4 @@ Je m'intéresse particulièrement à la **Prédiction Conforme** pour fiabiliser
 * **Localisation :** Montpellier, France
 
 ---
-*📍 Disponible pour une alternance 8 semaines / 8 semaines à partir de Septembre 2026.*
+*📍 Disponible pour une alternance 8 Semaines en Entreprise / 8 Semaines à l'Université à partir de Septembre 2026.*
