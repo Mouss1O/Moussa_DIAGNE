@@ -11,7 +11,7 @@ Passionné par l'intersection entre les Mathématiques rigoureuses et la Puissan
 Étudiant en **Master 1 Statistiques et Sciences des Données (SSD)**, mon profil se situe à l'intersection de la rigueur mathématique et de l'ingénierie logicielle.
 
 ### Parcours Académique
-* **Master 1 Statistiques et Sciences des Données (En cours) :** Spécialisation en modélisation complexe, Deep Learning et Big Data. Expertise sur **Hadoop, Spark** et les frameworks **PyTorch/TensorFlow**.
+* **Master 1 Statistiques et Sciences des Données (En cours) :** Spécialisation en modélisation complexe, Deep Learning et Big Data. Expertise sur les frameworks **PyTorch/TensorFlow**.
 * **Licence de Mathématiques & Informatique :** Base théorique solide en calcul, probabilités et maîtrise des langages fondamentaux comme le **C++** et le **Java**.
 
 ### Vision de la Data
@@ -32,7 +32,7 @@ Je m'intéresse particulièrement à la **Prédiction Conforme** pour fiabiliser
 
 ### [Pl@ntNet - Deep Learning & Prédiction Conforme](https://github.com/Mouss1O/votre-lien-projet)
 * **Objectif :** Fiabiliser la classification d'images d'espèces végétales.
-* Traitement d'un dataset de **50 000+ images**.
+* Traitement d'un dataset de plus de **5 Millions images**.
 * Implémentation de techniques de quantification de l'incertitude (Recalibrage Softmax).
 
 ### [RecipScore - Moteur de Recommandation Web](https://github.com/Mouss1O/votre-lien-projet)
@@ -62,4 +62,4 @@ Je m'intéresse particulièrement à la **Prédiction Conforme** pour fiabiliser
 * **Localisation :** Montpellier, France
 
 ---
-*📍 Disponible pour une alternance 7 semaines / 7 semaines à partir de Septembre 2026.*
+*📍 Disponible pour une alternance 8 semaines / 8 semaines à partir de Septembre 2026.*
