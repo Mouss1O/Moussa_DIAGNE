@@ -55,11 +55,12 @@ Je m'intéresse particulièrement à la **Prédiction Conforme** pour fiabiliser
 
 ---
 
-## Contact
+## Contact & Documents
 
-* **LinkedIn :** [linkedin.com/in/moussa-diagne](https://www.linkedin.com/in/moussa-diagne)
-* **Email :** mdiagne347@gmail.com
-* **Localisation :** Montpellier, France
+*  **[Consulter mon CV complet (PDF)](https://github.com/Mouss1O/Mouss1O/blob/main/CV_Moussa_Diagne.pdf)**
+*  **[Me rejoindre sur LinkedIn](https://www.linkedin.com/in/moussa-diagne)**
+*  **[M'envoyer un Email](mailto:mdiagne347@gmail.com)**
+* 📍 **Localisation :** Montpellier, France
 
 ---
 *📍 Disponible pour une alternance 8 Semaines en Entreprise / 8 Semaines à l'Université à partir de Septembre 2026.*
