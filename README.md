@@ -2,7 +2,7 @@
 
 Bonjour, je suis **Moussa DIAGNE**, étudiant en Master 1 Statistiques et Sciences des Données à l'Université de Montpellier.
 
->  ** En recherche active :**
+>  **En recherche active :**
 > - **Stage de 3 mois** (Juin à Août 2026) - Temps plein.
 > - **Alternance Master 2** (Rentrée Septembre 2026) - Rythme : 8 semaines Entreprise / 8 semaines Université.
 
