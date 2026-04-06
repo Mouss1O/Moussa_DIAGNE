@@ -54,10 +54,10 @@ Mon expérience passée dans le secteur industriel m'a inculqué une rigueur op�
 
 ## Contact & Documents
 
-*   ** CV :** [Consulter mon CV(PDF)](https://github.com/Mouss1O/Moussa_DIAGNE/raw/main/CV_Alt_Diagne_Moussa.pdf)
-*   ** LinkedIn :** [linkedin.com/in/moussa-diagne](https://www.linkedin.com/in/moussa-diagne)
-*   ** GitHub :** [github.com/Mouss1O](https://github.com/Mouss1O)
-*   ** Email :** [mdiagne347@gmail.com](mailto:mdiagne347@gmail.com)
+*   **CV :** [Consulter mon CV(PDF)](https://github.com/Mouss1O/Moussa_DIAGNE/raw/main/CV_Alt_Diagne_Moussa.pdf)
+*   **LinkedIn :** [linkedin.com/in/moussa-diagne](https://www.linkedin.com/in/moussa-diagne)
+*   **GitHub :** [github.com/Mouss1O](https://github.com/Mouss1O)
+*   **Email :** [mdiagne347@gmail.com](mailto:mdiagne347@gmail.com)
 *   📍 **Localisation :** Montpellier, France (Ouvert à la mobilité pour le stage et l'alternance)
 
 ---
