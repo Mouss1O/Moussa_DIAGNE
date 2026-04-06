@@ -61,4 +61,4 @@ Mon expérience passée dans le secteur industriel m'a inculqué une rigueur op�
 *   📍 **Localisation :** Montpellier, France (Ouvert à la mobilité pour le stage et l'alternance)
 
 ---
-*Dernière mise à jour : Avril 2024*
+*Dernière mise à jour : Avril 2026*
